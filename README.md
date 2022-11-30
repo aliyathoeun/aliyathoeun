@@ -1,7 +1,7 @@
 ![aliyathoeun Followers](https://img.shields.io/github/followers/aliyathoeun?label=Follow&style=social)
 ![Visitor](https://komarev.com/ghpvc/?username=aliyathoeun)
 [![Discord](https://img.shields.io/badge/-Discord%20Server-7289da?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/nmvFJ7a4rk)
-[![NPM](https://img.shields.io/badge/-Srens%20npm-c40b0a?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~srens)
+[![NPM](https://img.shields.io/badge/-aliyathoeun%20npm-c40b0a?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~aliyathoeun)
 
 ### Language and Tools
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
